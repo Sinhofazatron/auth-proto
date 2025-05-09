@@ -1,4 +1,4 @@
-module auth-proto
+module github.com/Sinhofazatron/auth-proto
 
 go 1.23.8
 
